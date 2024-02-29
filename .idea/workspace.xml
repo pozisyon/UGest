@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="">
+    <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="test affichage liste cours">
       <change beforePath="$PROJECT_DIR$/../Hello/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UGest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UGest.java" afterDir="false" />
@@ -90,11 +90,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708982204683</updated>
-      <workItem from="1708982206045" duration="10389000" />
+      <workItem from="1708982206045" duration="11598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test affichage liste cours" />
+    <option name="LAST_COMMIT_MESSAGE" value="test affichage liste cours" />
   </component>
 </project>

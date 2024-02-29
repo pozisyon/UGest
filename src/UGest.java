@@ -181,7 +181,7 @@ public class UGest {
 
                     break;
                 case 3:
-                        System.out.println("La liste des cours est:");
+                        System.out.println("La liste des cours:");
                     break;
                 case 4:
                     back = true;
