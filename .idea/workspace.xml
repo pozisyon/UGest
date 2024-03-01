@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="">
+    <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="test affichage liste cours">
       <change beforePath="$PROJECT_DIR$/../Hello/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Departement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Departement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DepartementProgramme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Etudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Professeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Professeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
@@ -32,12 +43,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2cvBW7IPAeixQ5K6vvFZZ1heBMf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,17 +74,25 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/tchenn/IdeaProjects/UGest/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Trompe&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/tchenn/IdeaProjects/UGest/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,22 +101,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708982204683</updated>
-      <workItem from="1708982206045" duration="4000" />
+      <workItem from="1708982206045" duration="11598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test affichage liste cours" />
+    <option name="LAST_COMMIT_MESSAGE" value="test affichage liste cours" />
   </component>
 </project>

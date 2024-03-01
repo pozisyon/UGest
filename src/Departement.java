@@ -1,25 +1,34 @@
-class Departement {
 
-    private String codeDepartement;
+import java.util.*;
+public class Departement {
     private String nomDepartement;
-
-    public Departement(String cd, String nD){
-        codeDepartement = cd;
+    private ArrayList<Programme> programme;
+    private ArrayList<Professeur>professeur;
+    public Departement(String nD, ArrayList<Programme> pr, ArrayList<Professeur>prof){
         nomDepartement = nD;
-    }
-    public void setCodeDepartement(String cd){
-        codeDepartement = cd;
+        programme = pr;
+        professeur = prof;
 
+        }
+        public void setNomDepartement(String nD){
+             nomDepartement=nD;
+        }
+
+        public java.lang.String getNomDepartement() {
+             return nomDepartement;
+         }
+         public void setProgrammeDepartement(ArrayList<Programme> pr){
+            programme=pr;
+         }
+
+    public java.util.ArrayList<Programme> getProgrammeDepartement() {
+        return programme;
     }
-    public String getCodeDepartement(){
-        return codeDepartement;
+    public void setProfesseurDepartement(ArrayList<Professeur> prof){
+        professeur=prof;
     }
 
-    public void setNomDepartement(String nD ){
-        nomDepartement = nD;
-    }
-
-    public String getNomDepartement() {
-        return nomDepartement;
+    public java.util.ArrayList<Professeur> getProfesseurDepartement() {
+        return professeur;
     }
 }

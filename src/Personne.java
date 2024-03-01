@@ -6,20 +6,14 @@ class Personne {
     private String adresse;
 
 
-    public Personne(String i,String n,String p, String tel,String adr){
-        id = i;
+    public Personne(String n,String p, String tel,String adr){
         nom = n;
         prenom = p;
         telephone = tel;
         adresse = adr;
 
     }
-    public void setId(String i){
-        id = i;
-    }
-    public String getId(){
-        return id;
-    }
+
     public void setNom(String n){
         nom = n;
     }

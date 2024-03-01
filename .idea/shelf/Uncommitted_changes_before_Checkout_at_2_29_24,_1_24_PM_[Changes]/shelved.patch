@@ -1,0 +1,41 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf\" name=\"Changes\" comment=\"test affichage liste cours\">\n      <change beforePath=\"$PROJECT_DIR$/../Hello/src/Main.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/UGest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/UGest.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.editorconfig\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.gitattributes\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.gitignore\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.idea/.gitignore\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.idea/misc.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.idea/modules.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/.idea/vcs.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/404.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/LICENSE.txt\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/css/style.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/favicon.ico\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/icon.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/icon.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/img/.gitkeep\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/js/app.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/js/vendor/.gitkeep\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/package.json\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/robots.txt\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/site.webmanifest\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/webpack.common.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/webpack.config.dev.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../test/webpack.config.prod.js\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n        <option value=\"Enum\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"DONT_SYNC\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 7\n}]]></component>\n  <component name=\"ProjectId\" id=\"2cvBW7IPAeixQ5K6vvFZZ1heBMf\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"compactDirectories\" value=\"true\" />\n    <option name=\"flattenModules\" value=\"true\" />\n    <option name=\"flattenPackages\" value=\"true\" />\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n    <option name=\"showMembers\" value=\"true\" />\n    <option name=\"showVisibilityIcons\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.Main.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"Trompe\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"onboarding.tips.debug.path\": \"/home/tchenn/IdeaProjects/UGest/src/Main.java\",\n    \"project.structure.last.edited\": \"Project\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.0\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf\" name=\"Changes\" comment=\"\" />\n      <created>1708982204683</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1708982204683</updated>\n      <workItem from=\"1708982206045\" duration=\"11598000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"test affichage liste cours\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"test affichage liste cours\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision bb1bea78ed01efe7048c7050ebff48e934626741)
++++ b/.idea/workspace.xml	(date 1709230899865)
+@@ -4,10 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="test affichage liste cours">
++    <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="liste cours">
+       <change beforePath="$PROJECT_DIR$/../Hello/src/Main.java" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/UGest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UGest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../test/.editorconfig" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/../test/.gitattributes" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
+@@ -90,7 +89,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1708982204683</updated>
+-      <workItem from="1708982206045" duration="11598000" />
++      <workItem from="1708982206045" duration="11672000" />
+     </task>
+     <servers />
+   </component>
+@@ -99,6 +98,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test affichage liste cours" />
+-    <option name="LAST_COMMIT_MESSAGE" value="test affichage liste cours" />
++    <MESSAGE value="liste cours" />
++    <option name="LAST_COMMIT_MESSAGE" value="liste cours" />
+   </component>
+ </project>
+\ No newline at end of file
