@@ -1,9 +1,11 @@
 import java.util.*;
 public class Professeur extends Personne{
     private ArrayList<Cours>cEnseiggnes;
-    public Professeur(String id,String nom,String prenom, String telephone,String adresse){
-        super(id,nom,prenom,telephone,adresse);
+    private String codeEmploye;
+    public Professeur(String nom,String prenom, String telephone,String adresse,String codeEmp){
+        super(nom,prenom,telephone,adresse);
          cEnseiggnes = new ArrayList();
+         codeEmploye = codeEmp;
 
     }
 
@@ -12,5 +14,12 @@ public class Professeur extends Personne{
     }
     public void setcEnseiggnes(Cours cours){
         cEnseiggnes.add(cours);
+    }
+
+    public void setCodeEmploye(java.lang.String codeEmploye) {
+        this.codeEmploye = codeEmploye;
+    }
+    public String getCodeEmploye(){
+        return codeEmploye;
     }
 }

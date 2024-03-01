@@ -1,12 +1,14 @@
  class Cours {
     private String codeCours;
     private String nomCours;
-    private int credit;
+    private String description;
+    private int nbreEtudiant;
 
-    public Cours(String cC, String nC,int cr){
+    public Cours(String cC, String nC,String des,int nE){
         codeCours = cC;
         nomCours = nC;
-        credit = cr;
+        description = des;
+        nbreEtudiant = nE;
 
     }
 
@@ -22,10 +24,14 @@
      public String getNomCours(){
         return nomCours;
      }
-     public void setNombreCredit(int cr){
-        credit = cr;
+     public void setDescriptionCours(String des){
+        description = des;
      }
-     public int getNombreCredit(){
-        return credit;
+     public String getDescription(){return description;}
+     public void setNombreEtudiantMax(int nE){
+        nbreEtudiant= nE;
+     }
+     public int getNombreEtudiantMax(){
+        return nbreEtudiant;
      }
  }
