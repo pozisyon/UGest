@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe09dd02-0b3d-4e23-a854-a10bfe9a2cbf" name="Changes" comment="test affichage liste cours">
+      <change afterPath="$PROJECT_DIR$/src/GestionUniversite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Departement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Departement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DepartementProgramme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Etudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etudiant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Professeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Professeur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UGest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UGest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />

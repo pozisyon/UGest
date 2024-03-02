@@ -1,6 +1,6 @@
 import java.util.*;
 public class UGest {
-
+GestionUniversite gest = new GestionUniversite();
     public void menuPrincipal(){
         boolean quitter = false;
         while(!quitter){
@@ -63,9 +63,11 @@ public class UGest {
             switch (choix) {
 
                 case 1:
+                    System.out.println("\t\t Entrer le nom du departement");
+                    gest.creerDepartement(new Scanner(System.in).nextLine());
                     break;
                 case 2:
-
+                    gest.listerDepartement(gest.getListeDepartement());
                     break;
                 case 3:
 

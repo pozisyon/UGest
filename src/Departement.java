@@ -4,6 +4,14 @@ public class Departement {
     private String nomDepartement;
     private ArrayList<Programme> programme;
     private ArrayList<Professeur>professeur;
+    public Departement(String nD){
+        nomDepartement = nD;
+    }
+    public Departement(String nD, ArrayList<Programme> pr){
+        nomDepartement = nD;
+        programme = pr;
+    }
+
     public Departement(String nD, ArrayList<Programme> pr, ArrayList<Professeur>prof){
         nomDepartement = nD;
         programme = pr;
